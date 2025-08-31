@@ -115,10 +115,10 @@ Contributions are welcome. To contribute:
 
 ## Screenshot
 
-![Sales Overview](images/ps1.png)
+![Sales Overview](Images/ps1.png)
 
-![Product Performance](images/ps2.png)
+![Product Performance](Images/ps2.png)
 
-![Customer Analysis](images/ps3.png)
+![Customer Analysis](Images/ps3.png)
 
-![Employee Performance](images/ps4.png)
+![Employee Performance](Images/ps4.png)
